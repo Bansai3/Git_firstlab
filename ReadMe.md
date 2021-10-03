@@ -1,2 +1,2 @@
 Git lab 
-simle output
+Simle output
