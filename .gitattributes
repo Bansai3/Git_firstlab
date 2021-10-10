@@ -1,1 +1,1 @@
-*[[:space:]].cpp filter=lfs diff=lfs merge=lfs -text
+.cpp filter=lfs diff=lfs merge=lfs -text
