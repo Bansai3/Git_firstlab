@@ -5,5 +5,5 @@ int main()
 {
     int t = 5;
     cout << "t = " << t;
-    return 0;
+    return 0 ;
 }
